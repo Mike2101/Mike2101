@@ -1,6 +1,6 @@
-## Hi there, I'm Miguel
+<center> ## Hi there, I'm Miguel </center>
 
-### 
+### <img width="1280" height="100" alt="209343" src="https://github.com/user-attachments/assets/0e27f15f-f50b-4745-8784-4e8fdc8a11e2" />
 
 <!--
 **Mike2101/Mike2101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
