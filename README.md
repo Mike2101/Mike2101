@@ -1,6 +1,6 @@
 ## <center>  Hi there, I'm Mikey! </center>
 
-### <img width="1280" height="200" alt="209343" src="https://github.com/user-attachments/assets/0e27f15f-f50b-4745-8784-4e8fdc8a11e2" />
+### <img width="1280" height="300" alt="209343" src="https://github.com/user-attachments/assets/0e27f15f-f50b-4745-8784-4e8fdc8a11e2" />
 
 <!--
 **Mike2101/Mike2101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
